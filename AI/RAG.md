@@ -12,7 +12,7 @@
 This is better than just guessing from the internet, because the information is specific and accurate for your business.
 
 
-When should you use RAG?  
+When should you use RAG (Retrieval-Augmented Generation)?  
   
 RAG is an AI technique that retrieves information from an external knowledge base to ground LLM on accurate, up-to-date information.  
   
