@@ -34,3 +34,6 @@ RAG applications allow you to rapidly compare different LLMs for your target use
 RAG applications let you add or remove data without changing the model. Company policies change, customers' data changes, and unlearning a piece of data from a pre-trained model is expensive. With RAG, it's much easier to remove data points from the knowledge your LLM is exposed to.  
 
 ![[Pasted image 20250501180444.png]]
+
+[[Semantic Search]]
+[[AWS Support for RAG]]
